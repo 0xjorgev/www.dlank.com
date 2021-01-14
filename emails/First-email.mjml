@@ -1,0 +1,144 @@
+<mjml>
+  <mj-head>
+    <mj-title>Discount Light</mj-title>
+    <mj-preview>Pre-header Text</mj-preview>
+    <mj-attributes>
+      <mj-all font-family="'Helvetica Neue', Helvetica, Arial, sans-serif"></mj-all>
+      <mj-text font-weight="400" font-size="16px" color="#000000" line-height="24px" font-family="'Helvetica Neue', Helvetica, Arial, sans-serif"></mj-text>
+    </mj-attributes>
+    <mj-style inline="inline">
+      .body-section { -webkit-box-shadow: 1px 4px 11px 0px rgba(0, 0, 0, 0.15); -moz-box-shadow: 1px 4px 11px 0px rgba(0, 0, 0, 0.15); box-shadow: 1px 4px 11px 0px rgba(0, 0, 0, 0.15); }
+    </mj-style>
+    <mj-style inline="inline">
+      .text-link { color: #5e6ebf }
+    </mj-style>
+    <mj-style inline="inline">
+      .footer-link { color: #888888 }
+    </mj-style>
+
+  </mj-head>
+  <mj-body background-color="#E7E7E7" width="600px">
+    <mj-section full-width="full-width" background-color="#040B4F" padding-bottom="0">
+      <mj-column width="100%">
+        <mj-text color="#ffffff" font-weight="bold" align="center" text-transform="uppercase" font-size="16px" letter-spacing="1px" padding-top="30px">
+          <span style="color: #979797; font-weight: normal"></span>
+        </mj-text>
+        <mj-text color="#17CBC4" align="center" font-size="13px" padding-top="0" font-weight="bold" text-transform="uppercase" letter-spacing="1px" line-height="20px"> Minutes App, Available now in the AppStore
+        </mj-text>
+        <mj-image src="https://minutes.dynamiteapps.io/assets/img/email/minutes-email-header-1.png" width="600px" alt=""padding-top="0" padding="0" padding-bottom="0" href="https://minutes.dynamiteapps.io" />
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#0B2275">
+      <mj-column width="100%">
+        <mj-image src="https://minutes.dynamiteapps.io/assets/img/email/minutes-email-header-2.png" width="600px" alt="" padding-top="0" padding="0" padding-bottom="0" href="https://minutes.dynamiteapps.io" />
+      </mj-column>
+    </mj-section>
+    <mj-wrapper padding-top="0" padding-bottom="0" css-class="body-section">
+      <mj-section background-color="#ffffff" padding-left="15px" padding-right="15px">
+        <mj-column width="100%">
+          <mj-text color="#212b35" font-weight="bold" font-size="20px">
+            Minutes App is available in the AppStore!
+          </mj-text>
+          <mj-text color="#637381" font-size="16px">
+            Dear {name} {lastname},
+          </mj-text>
+          <mj-text color="#637381" font-size="16px">
+            Have you ever felt that a meeting is sucking your soul out of your body?!. Well the thing is we all have had that feeling at least once.
+          </mj-text>
+          <mj-text color="#637381" font-size="16px">
+            Meetings are the most unproductive and expensive space ever and the worst part is that most of them shall have a consecutive meeting to ensure that all the value generated in the previous one is not lost.
+          </mj-text>
+          <mj-text color="#637381" font-size="16px">
+            To solve that issue we have created Minutes App:
+          </mj-text>
+          <mj-text color="#637381" font-size="16px">
+            <ul>
+              <li style="padding-bottom: 20px"><strong>Built for iOS and iPad OS:</strong> Created with SwiftUI for maximum visual performance on both your iPhone and iPad.</li>
+              <li style="padding-bottom: 20px"><strong>No login, signup or password:</strong> Not a 2000's app, it uses your iCloud credentials, no more forgotten passwords or logins.</li>
+              <li><strong>Local and cloud storage:</strong> Local database and cloud support via iCloud to backup your data.</li>
+              <li><strong>Keep your devices synced:</strong> Built in iCloud services, it keeps your devices in sync in a magical way.</li>
+              <li><strong>Built in support for Dark mode:</strong> Like Dark Mode?, then keep using the app at any moment.</li>
+							<li><strong>Suport for Dynamic types:</strong> If you need huge fonts or small it supports & adapt.</li>
+							<li><strong>CSV items Export:</strong>Integrate your minutes items or share your items with a simple csv export file.</li>
+							<li><strong>Free ... with limits:</strong>Start using the app for free, no credit card or any other entry needed.</li>
+							<li><strong>Monthly and Yearly subscriptions:</strong>Ready to get a PRO memberhip, you can choose monthly or yearly payments.</li>
+            </ul>
+          </mj-text>
+          <mj-text color="#637381" font-size="16px" padding-top="30px">
+            This set of features and many more to come are the ultimate solution app for your meetings, hope you like the app and hope it makes your meetings a more productive space
+          </mj-text>
+          <mj-image src="https://minutes.dynamiteapps.io/assets/img/Download_on_the_App_Store_Badge_US-UK_RGB_blk_092917_web.svg" width="150px" href="https://apps.apple.com/us/app/minutes/id1483067743?ls=1" />
+
+          <mj-text color="#637381" font-size="16px" padding-bottom="0">
+           Sincerely
+          </mj-text>
+					<mj-text color="#637381" font-size="16px" padding-bottom="0">
+         		<strong>Jorge Mendoza</strong>
+          </mj-text>
+					<mj-text color="#637381" font-size="16px" padding-bottom="0">
+          	<strong>CEO & Founder @ Dynamite Apps LLC</strong>
+          </mj-text>
+        </mj-column>
+      </mj-section>
+      <mj-section background-color="#ffffff" padding-left="15px" padding-right="15px" padding-top="0">
+
+
+      </mj-section>
+      <mj-section background-color="#ffffff" padding-left="15px" padding-right="15px" padding-top="0">
+        <mj-column width="100%">
+          <mj-divider border-color="#DFE3E8" border-width="1px" />
+        </mj-column>
+      </mj-section>
+      <mj-section background-color="#ffffff" padding-left="15px" padding-right="15px">
+        <mj-column width="50%">
+          <mj-text color="#212b35" font-size="12px" text-transform="uppercase" font-weight="bold" padding-bottom="0">
+            address
+          </mj-text>
+          <mj-text color="#637381" font-size="14px" padding-top="0">
+            Austin Convention Center
+            <br/> 123 Main Street, 78701
+          </mj-text>
+        </mj-column>
+        <mj-column width="50%">
+          <mj-text color="#212b35" font-size="12px" text-transform="uppercase" font-weight="bold" padding-bottom="0">
+            Hours of Operation
+          </mj-text>
+          <mj-text color="#637381" font-size="14px" padding-top="0">
+            Monday, December 20th: 8:00AM - 5:00PM
+            <br/> Tuesday, December 21st: 8:00AM - 5:00PM
+          </mj-text>
+        </mj-column>
+      </mj-section>
+      <mj-section background-color="#ffffff" padding-left="15px" padding-right="15px">
+
+      </mj-section>
+    </mj-wrapper>
+
+    <mj-wrapper full-width="full-width">
+      <mj-section>
+        <mj-column width="100%" padding="0">
+          <mj-text color="#445566" font-size="11px" font-weight="bold" align="center">
+            View this email in your browser
+          </mj-text>
+          <mj-text color="#445566" font-size="11px" align="center" line-height="16px">
+            You are receiving this email comunication because you registered with Minutes App or Dynamite Apps LLC.
+          </mj-text>
+          <mj-text color="#445566" font-size="11px" align="center" line-height="16px">
+            &copy; Dynamite Apps LLC., All Rights Reserved.
+          </mj-text>
+        </mj-column>
+      </mj-section>
+      <mj-section padding-top="0">
+        <mj-group>
+          <mj-column width="100%" padding-right="0">
+            <mj-text color="#445566" font-size="11px" align="center" line-height="16px" font-weight="bold">
+              <a class="footer-link" href="https://minutes.dynamiteapps.io/minutes-privacy-policy.html">Privacy</a>&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;<a class="footer-link" href="https://minutes.dynamiteapps.io">Unsubscribe</a>
+            </mj-text>
+          </mj-column>
+        </mj-group>
+
+      </mj-section>
+    </mj-wrapper>
+
+  </mj-body>
+</mjml>
